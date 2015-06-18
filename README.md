@@ -20,7 +20,7 @@ So I has to twek the setup a bit to make it work.
         - -domain=cluster.local
         - -kube_master_url=http://<public IP of kubernetes master >:8080
 
-This change was the only change I tweaked to make it work in lab env. However I would not to want to move this to production :)
+This was the only change  make it work in lab env. However I would not to want to move this to production :)
 
 
 
